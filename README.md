@@ -1,3 +1,5 @@
+![download-financial-reports: Library financial reports downloader](docs/images/social-preview.png)
+
 # download-financial-reports
 
 Planned tool to download financial reports published by the Handley library.
